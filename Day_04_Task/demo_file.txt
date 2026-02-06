@@ -1,0 +1,2 @@
+The different modes are read, write, append etc
+File handling is easy in Python
