@@ -3,6 +3,7 @@
 def count_errors(filename):
     error_lines = []
     count = 0
+    
 
     with open(filename, "r") as file:
         for line in file:
