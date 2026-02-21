@@ -1,0 +1,6 @@
+order_id,customer_id,gender,age,city,product_category,price,product_name,quantity,order_date
+1001,C101,M,25,Hyderabad,Electronics,50000,Laptop,1,2025-01-01
+1002,C102,F,,Mumbai,fashion,2000,T-shirt,2,2025-02-10
+1003,C103,male,150,Mumbai,ELECTRONICS,30000,Mobile,1,2025-03-15
+1003,C103,male,150,Mumbai,ELECTRONICS,30000,Mobile,1,2025-03-15
+1004,C104,f,-5,,Fashion,1500,Shoes,3,2025-04-20
